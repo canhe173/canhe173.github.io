@@ -58,7 +58,7 @@ Publications
 [<font size=5>Customized instruction on risc-v for winograd-based convolution acceleration</font>](https://ieeexplore.ieee.org/abstract/document/9516614)
 
 
-Shihang Wang, Jianghan Zhu, Qi Wang, **Can He**, and Terry Tao Ye. “Customized instruction on risc-v for winograd-based convolution acceleration.” *IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*.
+Shihang Wang, Jianghan Zhu, Qi Wang, **Can He**, and Terry Tao Ye. “Customized instruction on risc-v for winograd-based convolution acceleration,” *2021 IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*.
   
 <!-- Talks
 ======

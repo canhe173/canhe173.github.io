@@ -16,6 +16,6 @@ Recommended citation: **C. He**, L. Meng, J. Wang, and M. Q.-H. Meng. “FabricF
 
 <font size=4><i>IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)</i></font>
 
-Recommended citation: S. Wang, J. Zhu, Q. Wang, **C. He**, and T. T. Ye. “Customized instruction on risc-v for winograd-based convolution acceleration.” *2021 IEEE 32nd International Conference on Application-specific Systems, Architectures and Processors (ASAP)*, pp. 65–68, IEEE, 2021.
+Recommended citation: S. Wang, J. Zhu, Q. Wang, **C. He**, and T. T. Ye. “Customized instruction on risc-v for winograd-based convolution acceleration,” *2021 IEEE 32nd International Conference on Application-specific Systems, Architectures and Processors (ASAP)*, pp. 65–68, IEEE, 2021.
 
 
