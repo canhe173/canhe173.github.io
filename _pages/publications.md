@@ -5,14 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-[<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](https://arxiv.org/pdf/2303.06587.pdf)
+[<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](../files/fabircfolding.pdf)
 
 <font size=4><i>IEEE. Under review, 2023 </i> </font>
 
 Recommended citation: **C. He**, L. Meng, J. Wang, and M. Q.-H. Meng. “FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations,” *arXiv preprint arXiv:2303.06587*, 2023.
 
 
-[<font size=5>Customized instruction on risc-v for winograd-based convolution acceleration</font>](https://ieeexplore.ieee.org/abstract/document/9516614)
+[<font size=5>Customized instruction on risc-v for winograd-based convolution acceleration</font>](../files/Customized%20instruction%20on%20risc-v%20for%20winograd-based%20convolution%20acceleration.pdf)
 
 <font size=4><i>IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)</i></font>
 
