@@ -10,6 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 =====
+
 The PDF version of [cv](../files/CV.pdf)
 
 
@@ -53,7 +54,7 @@ Publications
 [<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](https://arxiv.org/pdf/2303.06587.pdf)
 
 **Can He**, Lingxiao Meng, Jiankun Wang, and Max Q-H. Meng. “FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations,” 2023. Under review.
-</br>
+
 </br>
 
 [<font size=5>Customized instruction on risc-v for winograd-based convolution acceleration</font>](https://ieeexplore.ieee.org/abstract/document/9516614)
