@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Bio
 =====
 The PDF version of [cv](../files/CV.pdf)
 
@@ -51,13 +50,13 @@ Education
 
 Publications
 ======
-[<font size=4>**FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations**</font>](https://arxiv.org/pdf/2303.06587.pdf)
+[<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](https://arxiv.org/pdf/2303.06587.pdf)
 
 **Can He**, Lingxiao Meng, Jiankun Wang, and Max Q-H. Meng. “FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations,” 2023. Under review.
 </br>
 </br>
 
-[<font size=4>**Customized instruction on risc-v for winograd-based convolution acceleration**</font>](https://ieeexplore.ieee.org/abstract/document/9516614)
+[<font size=5>Customized instruction on risc-v for winograd-based convolution acceleration</font>](https://ieeexplore.ieee.org/abstract/document/9516614)
 
 
 Shihang Wang, Jianghan Zhu, Qi Wang, **Can He**, and Terry Tao Ye. “Customized instruction on risc-v for winograd-based convolution acceleration.” *IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*.
