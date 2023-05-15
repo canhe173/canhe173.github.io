@@ -9,7 +9,6 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-=====
 
 The PDF version of [cv](../files/CV.pdf)
 
