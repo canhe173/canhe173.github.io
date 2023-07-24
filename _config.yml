@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Can He"
   avatar           : "profile.jpg"
-  bio              : "Robotics, Deformable Object Manipulation"
+  bio              : "Robotics, Deformable Object Manipulation, Deep Learning"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -228,14 +229,14 @@ defaults:
       share: true
       comments: true
   # _project
-  # - scope:
-  #     path: ""
-  #     type: project
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   # - scope:
   #     path: ""

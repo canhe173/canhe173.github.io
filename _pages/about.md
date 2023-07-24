@@ -9,12 +9,9 @@ redirect_from:
 ---
 
 
-Hi! Welcome to my personal pages!
 
-I am a Master’s student at [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/en/) in [Department of Electronic and Electrical Engineering](https://eee.sustech.edu.cn/?lang=en). I start my study and research as part of the Robotics Perception & Intelligence Lab (RPILab) led by Prof. [Max Q.-H. Meng](https://eee.sustech.edu.cn/?view=%e5%ad%9f%e5%ba%86%e8%99%8e-2&jsid=18&lang=en) from the Fall of 2021.
 
-Prior to that, I received my bachelor’s degree from Southern University of Science and Technology, Shenzhen in 2021.
+I am currently pursuing a Master's degree in the [Department of Electronic and Electrical Engineering](https://eee.sustech.edu.cn/?lang=en) at [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/en/). Since the Fall of 2021, I have been conducting my studies and research as a member of the Robotics Perception & Intelligence Lab (RPILab) under the supervision of Prof. [Max Q.-H. Meng](https://scholar.google.com/citations?user=DxDCU7AAAAAJ&hl=en&oi=ao). In 2021, I received my bachelor's degree from Southern University of Science and Technology, Shenzhen. 
 
-My research interest lies in the collaboration of multiple robotic manipulators, and robotics manipulation specially in deformable object.
-
+My research interests focus on the collaboration of multiple robotic manipulators, deep learning, and robotics manipulation, particularly in deformable objects. My ultimate goal is to enable robots to actively participate in human daily life and provide convenient services to humans.
 

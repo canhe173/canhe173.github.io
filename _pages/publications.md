@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-[<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](../files/fabircfolding.pdf)
+[<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](../files/fabircfolding.pdf) 
 
-<font size=4><i>IEEE. Under review, 2023 </i> </font>
+<font size=4><i> Under review </i>  [[Page](https://sites.google.com/view/fabricfolding/home)] [[dataset](https://drive.google.com/file/d/1Yo0SlGTuHzTPOuGkmgcCkiIMKLTqeiyc/view)] </font>
 
 Recommended citation: **C. He**, L. Meng, J. Wang, and M. Q.-H. Meng. “FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations,” *arXiv preprint arXiv:2303.06587*, 2023.
 

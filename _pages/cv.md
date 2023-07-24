@@ -50,9 +50,9 @@ Education
 
 Publications
 ======
-[<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](https://arxiv.org/pdf/2303.06587.pdf)
+[<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](https://arxiv.org/abs/2303.06587)
 
-**Can He**, Lingxiao Meng, Jiankun Wang, and Max Q-H. Meng. “FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations,” 2023. Under review.
+**Can He**, Lingxiao Meng, Jiankun Wang, and Max Q-H. Meng. “FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations,” Under review. [[Page](https://sites.google.com/view/fabricfolding/home)] [[dataset](https://drive.google.com/file/d/1Yo0SlGTuHzTPOuGkmgcCkiIMKLTqeiyc/view)]
 
 
 [<font size=5>Customized instruction on risc-v for winograd-based convolution acceleration</font>](https://ieeexplore.ieee.org/abstract/document/9516614)
@@ -71,6 +71,7 @@ Selected Academic Activities
 **Conference Reviewing**
 
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)
+* International Conference on Biomimetic Intelligence and Robotics & Medical Robotics Forum (ICBIR+MRF 2023)
 * International Symposium on Biomimetic Intelligence and Robotics & Orthopaedic Robotics Forum
 (ISBIR & ORF 2022)
 
@@ -81,6 +82,13 @@ Teaching
 
 * Course: Fundamental of Circuit (Fall 2020) 
 * Professor: Terry Tao Ye
+
+Technical Skills
+======
+* Programming: Matlab $\geq$ Python $>$ Verilog $>$ Java $>$ C/C++
+* Robotic Manipulators: Kinova Gen3 Lite/Gen3, Franka Panda
+* Tools: Git, Docker, ROS, $\LaTeX$, Markdown
+* Operating Systems: Ubuntu, Window
   
 Major Courses
 ======
