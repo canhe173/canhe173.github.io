@@ -24,7 +24,7 @@ Education
 **Southern University of Science and Technology (SUSTech)** 
 * Bachelor of Engineering (B.Eng.), Microelectronics Science and Engineering (2021)
 * GPA: 3.62/4.00
-* RANK: 4/38
+* RANK: 4/39
 
 
 <!-- Work experience
