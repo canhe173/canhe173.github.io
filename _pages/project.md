@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Projects"
 permalink: /project/
 author_profile: true
 redirect_from:
@@ -7,6 +8,7 @@ redirect_from:
 ---
 
 FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations
+
 ======
 
 * Advisors: Prof. [Max Q.-H. Meng](https://scholar.google.com/citations?user=DxDCU7AAAAAJ&hl=en&oi=ao) ([Fellow, IEEE](https://ieeexplore.ieee.org/author/37274117000)); Prof. [Jiankun Wang](https://jkwang1992.github.io/)
