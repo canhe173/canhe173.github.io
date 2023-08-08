@@ -22,6 +22,7 @@ Mobile Robot Navigation and Control
 * Advisors: Prof. [Hong Zhang](https://scholar.google.com/citations?user=J7UkpAIAAAAJ&hl=en&oi=ao)
 * Team: Lingxiao Meng, **Can He**
 * The objective is to command Turtlebot3 to navigate from PS1 to the designated PS point, pause for 1 second, issue an arrival command, and additionally recognize 2 specific AruCo markers.
+* 
 <!-- ![Unfold a long sleeve T-shirt](../images/map.jpg =10x10) -->
 <div  align="center">  
 <img src="../images/map.jpg" width = "500" alt="map" align=center />
