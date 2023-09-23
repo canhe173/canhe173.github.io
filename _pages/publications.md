@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](../files/fabircfolding.pdf) 
+[<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](../files/fabricfolding.pdf) 
 
 <font size=4><i> Under review </i>  </font> [[Page](https://sites.google.com/view/fabricfolding/home)] [[Dataset](https://drive.google.com/file/d/1Yo0SlGTuHzTPOuGkmgcCkiIMKLTqeiyc/view)]
 
