@@ -7,7 +7,7 @@ author_profile: true
 
 [<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](../files/fabricfolding.pdf) 
 
-<font size=4><i> Under review </i>  </font> [[Page](https://sites.google.com/view/fabricfolding/home)] [[Dataset](https://drive.google.com/file/d/1Yo0SlGTuHzTPOuGkmgcCkiIMKLTqeiyc/view)]
+<font size=4><i> Robotica </i>  </font> [[Page](https://sites.google.com/view/fabricfolding/home)] [[Dataset](https://drive.google.com/file/d/1Yo0SlGTuHzTPOuGkmgcCkiIMKLTqeiyc/view)]
 
 Recommended citation: **C. He**, L. Meng, J. Wang, and M. Q.-H. Meng. “FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations,” *arXiv preprint arXiv:2303.06587*, 2023.
 
