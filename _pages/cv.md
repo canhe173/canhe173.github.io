@@ -52,7 +52,7 @@ Publications
 ======
 [<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](https://www.cambridge.org/core/journals/robotica/article/fabricfolding-learning-efficient-fabric-folding-without-expert-demonstrations/8335CCF9C0F9931A2BA957C9D5A9F5BB)
 
-**Can He**, Lingxiao Meng, Jiankun Wang, and Max Q-H. Meng. “FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations,” *Robotica*. [[Page](https://sites.google.com/view/fabricfolding/home)] [[Dataset](https://drive.google.com/file/d/1Yo0SlGTuHzTPOuGkmgcCkiIMKLTqeiyc/view)]
+**Can He**, Lingxiao Meng, Zhirui Sun, Jiankun Wang, and Max Q-H. Meng. “FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations,” *Robotica*. [[Page](https://sites.google.com/view/fabricfolding/home)] [[Dataset](https://drive.google.com/file/d/1Yo0SlGTuHzTPOuGkmgcCkiIMKLTqeiyc/view)]
 
 
 [<font size=5>Customized instruction on risc-v for winograd-based convolution acceleration</font>](https://ieeexplore.ieee.org/abstract/document/9516614)
