@@ -18,4 +18,4 @@ I am currently pursuing a Master's degree in the [Department of Electronic and E
 
 News
 ======
-·[30 January 2024] A paper is finally accepted to **Robotica**！
+* [30 January 2024] A paper is finally accepted to **Robotica**！
