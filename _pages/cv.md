@@ -10,7 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 
-The PDF version of [cv](../files/CV.pdf)
+<!-- The PDF version of [cv](../files/CV.pdf) -->
 
 
 Education
@@ -50,7 +50,7 @@ Education
 
 Publications
 ======
-[<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](https://arxiv.org/abs/2303.06587)
+[<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](https://www.cambridge.org/core/journals/robotica/article/fabricfolding-learning-efficient-fabric-folding-without-expert-demonstrations/8335CCF9C0F9931A2BA957C9D5A9F5BB)
 
 **Can He**, Lingxiao Meng, Jiankun Wang, and Max Q-H. Meng. “FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations,” *Robotica*. [[Page](https://sites.google.com/view/fabricfolding/home)] [[Dataset](https://drive.google.com/file/d/1Yo0SlGTuHzTPOuGkmgcCkiIMKLTqeiyc/view)]
 
@@ -83,14 +83,14 @@ Teaching
 * Course: Fundamental of Circuit (Fall 2020) 
 * Professor: Terry Tao Ye
 
-Technical Skills
+<!-- Technical Skills
 ======
 * Programming: Matlab $\geq$ Python $>$ Verilog $>$ Java $>$ C/C++
 * Robotic Manipulators: Kinova Gen3 Lite/Gen3, Franka Panda
 * Tools: Git, Docker, ROS, $\LaTeX$, Markdown
-* Operating Systems: Ubuntu, Window
+* Operating Systems: Ubuntu, Window -->
   
-Major Courses
+<!-- Major Courses
 ======
 **Robotics:**
 * Autonomous Robot Navigation (Prof. Hong Zhang)
@@ -101,4 +101,4 @@ Major Courses
 **Others:**
 * Advanced Artificial Intelligence (Prof. Yu Zhang)
 * Advanced Nonlinear Optimization (Prof. Qingsha S. Cheng)
-* Digital Image Processing (Prof. Yajun Yu)
+* Digital Image Processing (Prof. Yajun Yu) -->

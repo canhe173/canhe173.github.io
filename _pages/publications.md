@@ -9,7 +9,7 @@ author_profile: true
 
 <font size=4><i> Robotica </i>  </font> [[Page](https://sites.google.com/view/fabricfolding/home)] [[Dataset](https://drive.google.com/file/d/1Yo0SlGTuHzTPOuGkmgcCkiIMKLTqeiyc/view)]
 
-Recommended citation: **C. He**, L. Meng, J. Wang, and M. Q.-H. Meng. “FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations,” *arXiv preprint arXiv:2303.06587*, 2023.
+Recommended citation: **C. He**, L. Meng, J. Wang, and M. Q.-H. Meng. “FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations,” *Robotica*, pp. 1–16, 2023.
 
 
 [<font size=5>Customized instruction on risc-v for winograd-based convolution acceleration</font>](../files/Customized%20instruction%20on%20risc-v%20for%20winograd-based%20convolution%20acceleration.pdf)
