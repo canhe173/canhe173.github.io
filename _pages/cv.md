@@ -71,7 +71,7 @@ Selected Academic Activities
 **Conference Reviewing**
 
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)
-* International Conference on Biomimetic Intelligence and Robotics & Medical Robotics Forum (ICBIR+MRF 2023)
+* International Conference on Biomimetic Intelligence and Robotics & Medical Robotics Forum (ICBIR+MRF 2023/2024)
 * International Symposium on Biomimetic Intelligence and Robotics & Orthopaedic Robotics Forum
 (ISBIR & ORF 2022)
 
