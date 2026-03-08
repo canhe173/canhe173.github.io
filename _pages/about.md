@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /
 title: "Can He (何灿)"
 excerpt: "About me"
@@ -11,11 +11,15 @@ redirect_from:
 
 
 
-I received my Master's degree pf Electronic and Science at [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/en/) in 2024. I have been conducting my studies and research as a member of the Robotics Perception & Intelligence Lab ([RPILab](https://robotics.sustech.edu.cn/index.aspx)) under the supervision of Prof. [Max Q.-H. Meng](https://scholar.google.com/citations?user=DxDCU7AAAAAJ&hl=en&oi=ao) from 2021 to 2024. In 2021, I received my bachelor's degree from Southern University of Science and Technology, Shenzhen. 
+I received my M.Eng. in Electronic Science and Technology from [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/en/) in 2024. From 2021 to 2024, I conducted research in the Robotics Perception & Intelligence Lab ([RPILab](https://robotics.sustech.edu.cn/index.aspx)) under the supervision of Prof. [Max Q.-H. Meng](https://scholar.google.com/citations?user=DxDCU7AAAAAJ&hl=en&oi=ao). I received my B.Eng. from SUSTech in 2021.
 
-<!-- My current research focus on the collaboration of multiple robotic manipulators, deep learning, and robotics manipulation, particularly in deformable objects. My ultimate goal is to enable robots to actively participate in human daily life and provide convenient services to humans. -->
-
+My work focuses on the integration of large AI models into industrial software, covering areas such as AI-based visual perception (image recognition, object detection, instance segmentation), intelligent annotation with SAM models, on-device model deployment, and large language model-driven automated generation of industrial processes.
 
 News
 ======
+* [17 July 2024] I officially joined Agile Robot as AI algorithm engineer.
+* [5 July 2024] I graduated with my master's degree.
+* [3 July 2024] I received a job offer from Agile Robotics.
+* [21 June 2024] My third U.S. F-1 visa application was rejected.
+* [21 March 2024] I received a full-scholarship PhD offer from **Penn State**'s MAE program.
 * [30 January 2024] A paper is finally accepted to **Robotica**！
