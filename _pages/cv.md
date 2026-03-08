@@ -60,12 +60,6 @@ Publications
 
 Shihang Wang, Jianghan Zhu, Qi Wang, **Can He**, and Terry Tao Ye. “Customized instruction on risc-v for winograd-based convolution acceleration,” *2021 IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*.
   
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-
 Selected Academic Activities
 ======
 **Conference Reviewing**

@@ -19,7 +19,6 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -82,9 +81,9 @@ analytics:
 author:
   name             : "Can He"
   avatar           : "profile.jpg"
-  bio              : "Master student at SUSTech"
+  bio              : "AI Algorithm Engineer"
   location         : "Shenzhen, China"
-  employer         :
+  employer         : "Agile Robot"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=SGOeO48AAAAJ"
   email            : "hec2021@mail.sustech.edu.cn"
@@ -109,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "HeCan173"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -174,22 +173,6 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-  # teaching:
-  #   output: true
-  #   permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  # project:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
-
-
 # Defaults
 defaults:
   # _posts
@@ -210,42 +193,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _project
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
-
 # Sass/SCSS
 sass:
   sass_dir: _sass

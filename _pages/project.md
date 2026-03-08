@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: ""
+title: "Projects"
 permalink: /project/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations
