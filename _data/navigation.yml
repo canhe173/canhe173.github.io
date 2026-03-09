@@ -9,3 +9,13 @@ main:
   - title: "Publications"
     url: /publications/
 
+main_zh:
+  - title: "个人简介"
+    url: /zh/cv/
+
+  - title: "项目"
+    url: /zh/project/
+
+  - title: "论文"
+    url: /zh/publications/
+

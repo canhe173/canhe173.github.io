@@ -3,6 +3,30 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
+{% assign use_zh = false %}
+{% if page.lang == "zh" or page.url contains "/zh/" %}
+  {% assign use_zh = true %}
+{% endif %}
+{% if use_zh and author.bio_zh %}
+  {% assign author_bio = author.bio_zh %}
+{% else %}
+  {% assign author_bio = author.bio %}
+{% endif %}
+{% if use_zh and author.location_zh %}
+  {% assign author_location = author.location_zh %}
+{% else %}
+  {% assign author_location = author.location %}
+{% endif %}
+{% if use_zh and author.employer_zh %}
+  {% assign author_employer = author.employer_zh %}
+{% else %}
+  {% assign author_employer = author.employer %}
+{% endif %}
+{% if use_zh %}
+  {% assign follow_label = "关注" %}
+{% else %}
+  {% assign follow_label = "Follow" %}
+{% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
 
@@ -16,17 +40,17 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author_bio %}<p class="author__bio">{{ author_bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
+    <button class="btn btn--inverse">{{ follow_label }}</button>
     <ul class="author__urls social-icons">
-      {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+      {% if author_location %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author_location }}</li>
       {% endif %}
-      {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+      {% if author_employer %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author_employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>

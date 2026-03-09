@@ -247,6 +247,20 @@
                 transform: scaleX(1); /* reveal*/
       }
     }
+
+    .masthead__menu-item--lang {
+      a {
+        margin-left: 0.5rem;
+        padding: 0.2rem 0.7rem;
+        border: 1px solid $border-color;
+        border-radius: 999px;
+        line-height: 1.2;
+
+        &:before {
+          display: none;
+        }
+      }
+    }
   }
 
   .hidden-links {

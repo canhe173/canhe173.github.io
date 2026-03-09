@@ -3,6 +3,8 @@ layout: archive
 title: "Bio"
 permalink: /cv/
 author_profile: true
+lang: en
+alt_permalink: /zh/cv/
 redirect_from:
   - /resume
 ---

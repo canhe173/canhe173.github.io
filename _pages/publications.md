@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+lang: en
+alt_permalink: /zh/publications/
 ---
 
 [<font size=5>FabricFolding: Learning Efficient Fabric Folding without Expert Demonstrations</font>](../files/fabricfolding.pdf) 
