@@ -1,30 +1,102 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# canhe173.github.io
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+Source code for Can He's personal academic website.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+Live site: <https://canhe173.github.io>
 
-# Instructions
+## Stack
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications from a TSV file.
+- Jekyll site hosted on GitHub Pages
+- Theme base: Academic Pages (derived from Minimal Mistakes)
+- Ruby dependencies managed with Bundler (`Gemfile`)
+- Optional JavaScript minification via npm (`package.json`)
 
-See more info at https://academicpages.github.io/
+## Main Content
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+| Section | English URL | Chinese URL | Source file(s) |
+| --- | --- | --- | --- |
+| Home/About | `/` | `/zh/` | `_pages/about.md`, `_pages/about-zh.md` |
+| Bio/CV | `/cv/` | `/zh/cv/` | `_pages/cv.md`, `_pages/cv-zh.md` |
+| Projects | `/project/` | `/zh/project/` | `_pages/project.md`, `_pages/project-zh.md` |
+| Publications | `/publications/` | `/zh/publications/` | `_pages/publications.md`, `_pages/publications-zh.md` |
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll serve --livereload --host 127.0.0.1 --port 4000` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-# Changelog -- bugfixes and enhancements
+Navigation menus are configured in `_data/navigation.yml` (`main` and `main_zh`).
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+## Repository Map
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+- `_config.yml`: site metadata, author profile, plugins, and global settings
+- `_config.dev.yml`: local development overrides
+- `_pages/`: main pages
+- `_posts/`: blog posts (template/example posts are still present)
+- `images/`: images and favicon assets
+- `files/`: downloadable files (PDFs, CV, etc.)
+- `assets/`: CSS and JavaScript
+- `markdown_generator/`: optional tools for publication markdown generation
+
+## Local Development
+
+### 1. Install dependencies
+
+```bash
+bundle install
+```
+
+Optional (only if you want to rebuild `assets/js/main.min.js`):
+
+```bash
+npm install
+```
+
+### 2. Run the site locally
+
+```bash
+bundle exec jekyll serve --livereload --config _config.yml,_config.dev.yml
+```
+
+Then open <http://localhost:4000>.
+
+### 3. Build for production check
+
+```bash
+bundle exec jekyll build
+```
+
+### 4. Rebuild minified JavaScript (optional)
+
+```bash
+npm run build:js
+```
+
+## Bilingual Page Pattern
+
+For each EN/ZH page pair:
+
+- Set `lang: en` or `lang: zh`
+- Set `alt_permalink` to the corresponding page in the other language
+- Keep both entries in `_data/navigation.yml`
+
+Language-aware navigation and the EN/ZH switch are handled in `_includes/masthead.html`.
+
+## Publications Workflow Notes
+
+Publications are currently maintained directly in:
+
+- `_pages/publications.md`
+- `_pages/publications-zh.md`
+
+`markdown_generator/` includes legacy scripts/notebooks from Academic Pages if you want to generate publication markdown from TSV/BibTeX in the future.
+
+## Deployment
+
+Push commits to the repository's publishing branch configured in GitHub Pages. GitHub Pages then rebuilds and deploys the site automatically.
+
+## Credits
+
+This site is based on:
+
+- Academic Pages: <https://academicpages.github.io>
+- Minimal Mistakes: <https://mmistakes.github.io/minimal-mistakes/>
+
+## License
+
+MIT License (see `LICENSE`).
