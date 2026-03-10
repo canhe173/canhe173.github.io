@@ -20,9 +20,9 @@ My work focuses on the integration of AI models into industrial software, coveri
 
 News
 ======
-* [17 July 2024] I officially joined Agile Robot as AI algorithm engineer.
+* [17 July 2024] I officially joined [Agile Robots](https://www.agile-robots.com/) as AI algorithm engineer.
 * [5 July 2024] I graduated with my master's degree.
-* [3 July 2024] I received a job offer from **Agile Robotics**.
+* [3 July 2024] I received a job offer from **Agile Robots**.
 * [21 June 2024] My third U.S. F-1 visa application was rejected.
 * [21 March 2024] I received a full-scholarship PhD offer from **Penn State**'s MAE program.
 * [30 January 2024] A paper is finally accepted to **Robotica**！
